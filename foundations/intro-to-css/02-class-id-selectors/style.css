@@ -1,1 +1,27 @@
 /* Add CSS Styling */
+/* brute force kinda way to do it
+   not very optimized and kinda redundant 
+*/
+
+.num1 {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: pink;
+}
+
+#num2 {
+    color: blue;
+    font-weight: bold;
+    font-size: 32px;
+}
+
+.num3 {
+    background-color: pink;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+
+#num4 {
+    background-color: rgb(2, 168, 2);
+    font-size: 25px;
+    font-weight: bold;
+}
