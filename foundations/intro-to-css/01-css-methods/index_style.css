@@ -1,0 +1,9 @@
+/* External css file for index.html*/
+
+div{
+    background-color: red;
+    color: white;
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+}
